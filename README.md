@@ -5,7 +5,7 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Python version
 
 * System dependencies
 
@@ -22,9 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-
-[![Maintainability](https://api.codeclimate.com/v1/badges/b152247a174304b404fe/maintainability)](https://codeclimate.com/github/DeanHatch/scoreboard-api/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/b152247a174304b404fe/test_coverage)](https://codeclimate.com/github/DeanHatch/scoreboard-api/test_coverage)
 
 <hr/>
 
